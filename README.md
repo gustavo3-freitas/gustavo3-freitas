@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavo3-freitas
 - 👀 I’m interested in Data Science, AI, Python, ML and Mobile
-- 🌱 I’m currently learning Mobile and everything related with Data Science
+- 🌱 I’m currently Python everything related with Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects or any new chalenger 
 - 📫 How to reach me:
 
